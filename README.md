@@ -1,5 +1,5 @@
 # fbcrack
 open donasi
-paypal: yandoajikumala@gmail.com
-WhatsApp :0859750311836
+paypal: xenji795@gmail.com
+telegram ; t.me/XinnClayFixxedd
 yang belum tau caranya bisa hubungi langsung 
