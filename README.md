@@ -1,7 +1,8 @@
 # fbcrack
 open donasi
 paypal: xenji795@gmail.com
-telegram ; t.me/XinnClayFixxedd
+ch tele: https://t.me/XinnClayFixxed
+tele: https://t.me/XinnClay_Fixxed
 yang belum tau caranya bisa hubungi langsung 
 
 
