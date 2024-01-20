@@ -3,3 +3,11 @@ open donasi
 paypal: xenji795@gmail.com
 telegram ; t.me/XinnClayFixxedd
 yang belum tau caranya bisa hubungi langsung 
+
+
+
+
+
+python -m pip install rich
+
+python3 chan.py
